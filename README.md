@@ -15,7 +15,6 @@ Automate the preprocessing and quality control of paired-end FASTQ data using **
 - [Output](#output)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
