@@ -2,7 +2,7 @@
 
 ![Pipeline Workflow](https://img.shields.io/badge/Pipeline-FASTQ%20Processing-brightgreen)
 
-Automate the preprocessing and quality control of paired-end FASTQ data using **FastQC**, **MultiQC**, and **fastp**. This Bash script streamlines the entire workflow by creating necessary directory structures, allowing environment selection, logging read statistics, and generating informative read statistics graphs.
+Semi-automate the preprocessing and quality control of paired-end FASTQ data using **FastQC**, **MultiQC**, and **fastp**. This Bash script streamlines the entire workflow by creating necessary directory structures, allowing environment selection, logging read statistics, and generating read statistics graphs.
 
 ## Table of Contents
 
