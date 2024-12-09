@@ -62,7 +62,7 @@ Before running the script, ensure that the following tools and dependencies are 
    Example to create a new environment:
 
    ```bash
-   conda create -n fastq_env fastqc multiqc fastp jq python=3.8
+   conda create -n fastq_env fastqc multiqc fastp jq plotext python=3.8
    conda activate fastq_env
    ```
 
@@ -214,7 +214,7 @@ processed_data/
   ```
 
 - **Read Statistics Graph:**
-  - Displayed directly in the terminal after execution.
+  - Displayed directly in the terminal after execution using plotext.
   - Visual representation of read statistics using a multiple bar plot.
 
 ## Troubleshooting
@@ -268,11 +268,7 @@ Contributions are welcome! If you have suggestions, bug reports, or enhancements
 
 5. **Open a Pull Request**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For any questions, issues, or suggestions, please contact [Daniel João](mailto:daniel.joao@example.com).
+For any questions, issues, or suggestions, please contact [Dan](mailto:fc56455@alunos.fc.ul.pt).
 
