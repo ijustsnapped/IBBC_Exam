@@ -215,6 +215,8 @@ processed_data/
 - **Read Statistics Graph:**
   - Displayed directly in the terminal after execution using plotext.
   - Visual representation of read statistics using a multiple bar plot.
+  - [Histogram using plotext](graph.png)
+
 
 ## Troubleshooting
 
